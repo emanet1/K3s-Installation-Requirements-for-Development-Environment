@@ -73,7 +73,7 @@ Hardware requirements are based on the size of your K3s cluster. For production 
 - PostgreSQL
 - etcd
 
-**CPU and Memory**
+**CPUU and Memory**
 
 The following are the minimum CPU and memory requirements for nodes in a high-availability K3s server:
 
